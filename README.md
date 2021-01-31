@@ -1,4 +1,4 @@
-# food
+# Korean Master Chef
 
 A new Flutter application.
 
